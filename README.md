@@ -1,5 +1,5 @@
 ## Using deep auto-encoders for gene clustering in cancer research
-![Logo of Politecnico di Milano](logo_polimi.png) 
+![Logo of Politecnico di Milano](logo-polimi.png) 
 
 This repository contains the source codes related to the experiments of my master thesis work at Politecnico di Milano.
 ### Motivation:
